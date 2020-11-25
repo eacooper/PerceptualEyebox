@@ -3,7 +3,9 @@
 This repository contains the raw perceptual and optical data, as well as analysis scripts, from:
 
 A perceptual eyebox for near-eye displays
+
 Steven A. Cholewiak, Zeynep Başgöze, Ozan Cakmakci, David M. Hoffman, and Emily A. Cooper
+
 Optics Express, in press
 
 ## 1) Perceptual data: the file “perceptual_data.csv” contains these fields for each recorded trial:
